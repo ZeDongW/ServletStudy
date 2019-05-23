@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="ServletStudy">
+    <output-path>D:/apache-tomcat-9.0.16/webapps/ServletStudy</output-path>
+    <root id="root" />
+  </artifact>
+</component>
